@@ -4,7 +4,9 @@ import {
 }  from "sequelize";
 
 
-
+interface UserAttributes {
+  
+}
 
 
 module.exports = (sequelize:any, DataTypes:any) => {
