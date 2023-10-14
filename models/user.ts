@@ -5,6 +5,8 @@ import {
 
 
 
+
+
 module.exports = (sequelize:any, DataTypes:any) => {
   class User extends Model {
     /**
